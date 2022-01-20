@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-assert-test",
+  "version": "1.0.0",
+  "description": "simple test with assert",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/treetonus/simple-node-assert-test.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treetonus/simple-node-assert-test/issues"
+  },
+  "homepage": "https://github.com/treetonus/simple-node-assert-test#readme"
+}
